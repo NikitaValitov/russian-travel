@@ -6,10 +6,10 @@
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
-   
+
 }
 
-.cover::after{
+.cover::after {
    content: "";
    width: 0;
    height: 0;

@@ -1,0 +1,15 @@
+.footer__list:not(:last-child) {
+   margin-right: 18px;
+}
+
+@media screen and (max-width:767px) {
+   .footer__list:not(:last-child) {
+      margin-bottom: 32px;
+   }
+}
+
+@media screen and (max-width:767px) {
+   .footer__list {
+      margin-bottom: 48px;
+   }
+}
