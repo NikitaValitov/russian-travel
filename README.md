@@ -4,6 +4,6 @@
 Сверстал адаптивный сайт, используя новые знания и знания, полученные с прошлых спринтов.
 Выложил работу на GitHub Pages.
 
-[### Сайт:]
-(https://nikitavalitov.github.io/russian-travel/)
+### Сайт:
+https://nikitavalitov.github.io/russian-travel/
 
