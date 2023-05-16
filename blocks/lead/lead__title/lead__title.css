@@ -10,6 +10,8 @@
    .lead__title{
       font-size: 68px;
       line-height: 72px;
+      padding-right: 16px;
+      padding-left: 16px;
    }
 }
 

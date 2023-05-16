@@ -26,5 +26,7 @@
    .photo-grid{
        padding-top: 64px;
        gap: 12px;
+       padding-right: 16px;
+      padding-left: 16px;
    }
 }
